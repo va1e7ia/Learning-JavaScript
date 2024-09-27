@@ -8,3 +8,9 @@ _Task 3:_ A string is given. Print the last symbol of this string to the console
 _Task 4:_ A number is given. Check out, is odd or even.  
 _Task 5:_ Two words are given. Check out first letters are same or not.  
 _Task 6:_  A word is given. Get the last letter. If the word ends with "ь", then you take penultimate letter.  
+
+# LEVEL 1.2  
+_Task 1:_ A number is given. Print the first digit of this number to the console.  
+_Task 2:_ A number is given. Print the last digit of this number to the console.
+_Task 3:_ A number is given. Print first digit + last digit to the console.  
+_Task 4:_ A number is given. Print amount of digits of this number t0 the console.
