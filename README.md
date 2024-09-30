@@ -46,3 +46,16 @@ _Task 1:_ Given an array of numbers. Find the sum of the squares of the elements
 _Task 2:_ Given an array of numbers. Find the sum of the square roots of the elements of this array.  
 _Task 3:_ Given an array of numbers. Find the sum of all positive elements of this array.  
 _Task 4:_ Given an array of numbers. Find the sum of those elements of this array, that are greater than 0 and less than 10.
+
+# LEVEL 1.7
+
+_Task 1:_ A string is given. Get an array of letters of this string.  
+_Task 2:_ A number is given. Get an array of digits of this number.  
+_Task 3:_ A number is given. Reverse it.  
+_Task 4:_ A number is given. Find the sum of digits of this number.
+
+# LEVEL 1.8
+
+_Task 1:_ Fill an array with integers in the range from 1 to 10.
+_Task 2:_ Fill an array with even numbers in the range from 1 to 100.
+_Task 3:_ Given an array with fractions. Round this fractions to 1 decimal place.
