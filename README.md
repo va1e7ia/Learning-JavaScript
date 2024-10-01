@@ -56,6 +56,19 @@ _Task 4:_ A number is given. Find the sum of digits of this number.
 
 # LEVEL 1.8
 
-_Task 1:_ Fill an array with integers in the range from 1 to 10.
-_Task 2:_ Fill an array with even numbers in the range from 1 to 100.
+_Task 1:_ Fill an array with integers in the range from 1 to 10.  
+_Task 2:_ Fill an array with even numbers in the range from 1 to 100.  
 _Task 3:_ Given an array with fractions. Round this fractions to 1 decimal place.
+
+# LEVEL 1.9
+
+_Task 1:_ A string array is given. Leave in this array only those lines that begin with http://.  
+_Task 2:_ A string array is given. Leave in this array only those lines that end with .html.  
+_Task 3:_ Given an array with numbers. Increase each number in the array by 10 percent.
+
+# LEVEL 1.10
+
+_Task 1:_ Fill an array with random numbers in the range from 1 to 100.  
+_Task 2:_ Given a number. Print all its characters from the end to the console.  
+_Task 3:_ Given an array. In turn, output to the console subarrays of two elements of our array.  
+_Task 4:_ Given two arrays. Concat them into the one array.
