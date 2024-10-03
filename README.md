@@ -1,6 +1,6 @@
 # Learning-JavaScript
 
-Easy JS projects
+JS TASKS: FROM NOOB TO PRO
 
 # LEVEL 1.1
 
@@ -72,3 +72,17 @@ _Task 1:_ Fill an array with random numbers in the range from 1 to 100.
 _Task 2:_ Given a number. Print all its characters from the end to the console.  
 _Task 3:_ Given an array. In turn, output to the console subarrays of two elements of our array.  
 _Task 4:_ Given two arrays. Concat them into the one array.
+
+# LEVEL 2.1
+
+_Task 1:_ A string is given. Find the position of the first 0 in the string.  
+_Task 2:_ Print to the console all numbers in the range from 1 to 1000, the sum of the first and the second digits of which is equal to 5.  
+_Task 3:_ An array is given. Remove elements with a given value from it.  
+_Task 4:_ An array is given. Find the sum of the first half of the elements of the array.
+
+# LEVEL 2.2
+
+_Task 1:_ Given an array of numbers. Count the number of all negative numbers in this array.  
+_Task 2:_ Given an array of numbers. Leave only positive numbers in it.  
+_Task 3:_ A string is given. Delete penultimate symbol of the string.  
+_Task 4:_ An array is given. Divide the sum of the first half of the elements of this array by the sum of the second half of the elements.
