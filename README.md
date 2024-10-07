@@ -86,3 +86,14 @@ _Task 1:_ Given an array of numbers. Count the number of all negative numbers in
 _Task 2:_ Given an array of numbers. Leave only positive numbers in it.  
 _Task 3:_ A string is given. Delete penultimate symbol of the string.  
 _Task 4:_ An array is given. Divide the sum of the first half of the elements of this array by the sum of the second half of the elements.
+
+# LEVEL 2.3
+
+_Task 1:_ Two words are given. Check out that the last letter of the first word matches the first letter of the second word.  
+_Task 2:_ A string is given. Find position of the third 0.  
+_Task 3:_ Given numbers separated by commas. Find the sum of this numbers.  
+_Task 4:_ Given a date: '2025-12-31'. Convert this date to the following object: {
+year: '2025',
+month: '12',
+day: '31',
+}
