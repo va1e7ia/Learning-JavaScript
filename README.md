@@ -97,3 +97,11 @@ year: '2025',
 month: '12',
 day: '31',
 }
+
+# LEVEL 2.4
+
+_Task 1:_ Given a string with numbers and letters. Find the position of the first number of this string.  
+_Task 2:_ Given an object with keys and values. Write to the first arrays keys of this object, to the second array - the values.  
+_Task 3:_ Given an integer. Print to the console the number of even digits of this array.  
+_Task 4:_ Given a string. Convert all odd letters of this string to uppercase.  
+_Task 5:_ Given a string with words. Capitalize the first character of each word on this line.
