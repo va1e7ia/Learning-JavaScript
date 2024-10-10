@@ -12,4 +12,4 @@ const upperCaseOdd = (str) => {
   return resString;
 };
 
-console.log(upperCaseEven(string));
+console.log(upperCaseOdd(string));
