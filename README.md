@@ -105,3 +105,18 @@ _Task 2:_ Given an object with keys and values. Write to the first arrays keys o
 _Task 3:_ Given an integer. Print to the console the number of even digits of this array.  
 _Task 4:_ Given a string. Convert all odd letters of this string to uppercase.  
 _Task 5:_ Given a string with words. Capitalize the first character of each word on this line.
+
+# LEVEL 2.5
+
+_Task 1:_ Given a string. Get an array of positions of all zeros in this string.  
+_Task 2:_ Given any string. Remove every third character from this string.  
+_Task 3:_ Given an array. Divide the sum of the elements in even positions by the sum of the elements in odd positions.
+
+# LEVEL 2.6
+
+_Task 1:_ Given any string with letters and numbers. Get an array of positions of all digits in this string.  
+_Task 2:_ Given an array with some numbers, for example, like this: [123, 456, 789]. Write code that will reverse the numbers in this array using the following principle: [321, 654, 987].  
+_Task 3:_ Given a string with a number: '1234567'. Separate triplets of digits with spaces, starting at the end of the number. In our case it should look like this: '1 234 567'.  
+_Task 4:_ Given any string. Change the case of every letter of this string to the opposite case.  
+_Task 5:_ Given an array with numbers. Merge pairs of elements together.  
+_Task 6:_ Given any string. Capitalize the first character of every second word on this line.
