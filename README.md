@@ -120,3 +120,9 @@ _Task 3:_ Given a string with a number: '1234567'. Separate triplets of digits w
 _Task 4:_ Given any string. Change the case of every letter of this string to the opposite case.  
 _Task 5:_ Given an array with numbers. Merge pairs of elements together.  
 _Task 6:_ Given any string. Capitalize the first character of every second word on this line.
+
+# LEVEL 2.7
+
+_Task 1:_ Given any string. Capitalize all substrings, that length is less than 4 elements.  
+_Task 2:_ A symbol is given. Find out in which case this character - upper or lower case.  
+_Task 3:_ Given any number. Delete all odd digits from this number.
