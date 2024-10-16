@@ -126,3 +126,25 @@ _Task 6:_ Given any string. Capitalize the first character of every second word 
 _Task 1:_ Given any string. Capitalize all substrings, that length is less than 4 elements.  
 _Task 2:_ A symbol is given. Find out in which case this character - upper or lower case.  
 _Task 3:_ Given any number. Delete all odd digits from this number.
+
+# LEVEL 2.8
+
+_Task 1:_ Given a string with letters. Check out that there are less than 2 capital letters in this string.  
+_Task 2:_ Any string is given. Remove from this string all substrings, that consists from more than 3 letters.  
+_Task 3:_ Two arrays are given:  
+let arr1 = [1, 2, 3];  
+let arr2 = ['a', 'b', 'c'];  
+Merge these arrays into a new array like this:  
+[1, 2, 'a', 'b', 'c', 3]
+
+# LEVEL2.9
+
+_Task 1:_ A number is given. Find the sum of the pairs of the elements of this array.  
+_Task 2:_ An array is given. Print to the console reversed array.
+
+# LEVEL 2.10
+
+_Task 1:_ Any string with numbers and letters is given. Check out that there are no more than three letters in this string.  
+_Task 2:_ A number is given. Get the first even digit from the end of this number.  
+_Task 3:_ Given any string. Replace the first character of each word with '!'.  
+_Task 4:_ An array with numbers is given. Check that this array has two identical elements in a row.
