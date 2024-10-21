@@ -148,3 +148,10 @@ _Task 1:_ Any string with numbers and letters is given. Check out that there are
 _Task 2:_ A number is given. Get the first even digit from the end of this number.  
 _Task 3:_ Given any string. Replace the first character of each word with '!'.  
 _Task 4:_ An array with numbers is given. Check that this array has two identical elements in a row.
+
+# LEVEL 3.1
+
+_Task 1:_ A number is given. Check that the digits of this number are in the ascending order.  
+_Task 2:_ An array is given. Remove from this array all emty lines.  
+_Task 3:_ An array is given. Sort all elements in each subarray.  
+_Task 4:_ Two arrays are given. Remove from a larger array extra elements from the end so that the length of the arrays become equal.
